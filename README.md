@@ -31,10 +31,10 @@ pip install -r requirements.txt
 
 ### Streamlit Web Interface
 
-![Main Interface](screenshots/{88429639-9113-445E-B0B1-5ED80500ACEC}.png)
+![Main Interface](screenshots/{A135161C-1013-4075-ACD4-8BD68D44B4A5}.png)
 _Main interface with document upload and search functionality_
 
-![Search Results](screenshots/{A135161C-1013-4075-ACD4-8BD68D44B4A5}.png)
+![Search Results](screenshots/{88429639-9113-445E-B0B1-5ED80500ACEC}.png)
 _Search results showing ranked documents with similarity scores_
 
 ## Usage
@@ -104,3 +104,4 @@ The `sample_documents/` folder contains example text files you can use to test t
 - numpy
 - scikit-learn
 - streamlit
+
